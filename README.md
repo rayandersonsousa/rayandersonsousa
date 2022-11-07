@@ -4,7 +4,7 @@
 - 🎲 Gosto muito de tecnologia, games e anime/mangá
 - 🏠 Moro em Mossoró - Rio Grande do Norte
 
-## Skills 🎯
+## 🎯 Skills
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
