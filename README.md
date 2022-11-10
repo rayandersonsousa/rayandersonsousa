@@ -1,6 +1,6 @@
 # Olá, eu sou Rayanderson Sousa!! 👋
-- 💻 Estudando de Desenvolcimento Web na Trybe
-- 🌱 Altualmente estou aprendendo sobre Context API
+- 💻 Estudando Desenvolvimento Web na Trybe
+- 🌱 Altualmente estou aprendendo sobre Docker
 - 🎲 Gosto muito de tecnologia, games e anime/mangá
 - 🏠 Moro em Mossoró - Rio Grande do Norte
 
