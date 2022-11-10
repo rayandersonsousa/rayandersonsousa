@@ -21,8 +21,27 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📟 Status GitHub
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayandersonsousa&show_icons=true&theme=highcontrast)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayandersonsousa&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+ <table>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=rayandersonsousa&theme=tokyonight&show_icons=true&hide_border=true" />
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayandersonsousa&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="40%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayandersonsousa&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td width="70%" align="center" vertical-align="middle">
+      <img alt="Rayanderson Activity Chart" src="https://activity-graph.herokuapp.com/graph?username=rayandersonsousa&bg_color=1a1b27&color=58a6ff&line=bf91f3&point=38bdae&hide_border=true&area_color=00ffd2&area=true" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Troféis GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=rayandersonsousa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
