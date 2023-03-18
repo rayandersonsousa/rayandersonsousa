@@ -1,6 +1,6 @@
 # Olá, eu sou Rayanderson Sousa!! 👋
-- 💻 Estudando Desenvolvimento Web na Trybe
-- 🌱 Altualmente estou aprendendo sobre TypeScript
+- 💻 Desenvolvedor Web Full Stack
+- 🌱 Altualmente estou aprendendo sobre MongoDB
 - 🎲 Gosto muito de tecnologia, games e anime/mangá
 - 🏠 Moro em Mossoró - Rio Grande do Norte
 
